@@ -1,0 +1,17 @@
+h1{
+    color:rgb(105, 193, 46);
+    text-align: center;
+    font-size: 45px;
+}
+h2{ text-decoration: underline;
+    color:rgb(47, 199, 47);
+    font-size: 37px;
+}
+body{
+    background-color:rgb(176, 244, 244)
+}
+p{
+    font-weight: bold;
+    font-size: 23px;
+}
+
